@@ -1,1 +1,1 @@
-# build-a-calculator
+# build-a-simple-calculator
